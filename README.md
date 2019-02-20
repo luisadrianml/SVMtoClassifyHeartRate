@@ -1,1 +1,3 @@
-# SVMforHeartRate
+# Classifying Patient Cardiac Diagnosis As Based On Spectf Images Using Support Vector Machines And Neural Networks 
+The SPECTF Heart Data Set comes from the Machine Learning Repository at University of California, Irvine. It describes the diagnoses of cardiac Single Photon Emission Computed Tomography (SPECTF) images. Upon derivation, the database of 267 SPECT image sets (patients) has already been processed to extract features that summarize the original SPECT images. As a result, 44 continuous feature patterns were created for each patient, plus a class indicator. These 45 total features were then used to predict the presence of a heart condition – using the class indicator to binarize patients as either normal or abnormal. 
+As such, we will implement both Support Vector Machines and Neural Networks to replicate and improve on the findings from UC Irvine.
